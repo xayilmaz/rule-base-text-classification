@@ -17,9 +17,7 @@ Tweet: _justmonie rt @caroline_kodl: well i'm actually tired af. but i will not 
 
 Category,Times
 
-ANGRY = 0
-HAPPY  = 0
-SAD      = 1
+ANGRY = 0 , HAPPY = 0 , SAD = 1
 
 **This tweet is SAD**
 
@@ -29,8 +27,6 @@ Tweet: finally i have my ticket for the #comlondon 😁 @vyrt @jaredleto #happy 
 
 Category,Times
 
-ANGRY = 0
-HAPPY  = 2
-SAD      = 0
+ANGRY = 0 , HAPPY = 2 , SAD = 0
 
 **This tweet is HAPPY**
