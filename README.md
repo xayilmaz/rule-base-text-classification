@@ -17,7 +17,7 @@ Tweet: _justmonie rt @caroline_kodl: well i'm actually tired af. but i will not 
 
 Category,Times
 
-ANGRY = 0 , HAPPY = 0 , SAD = 1
+ANGRY = 0 , HAPPY = 0 , SAD = 2
 
 **This tweet is SAD**
 
